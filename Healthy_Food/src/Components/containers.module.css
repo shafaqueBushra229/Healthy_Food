@@ -1,0 +1,12 @@
+.container{
+width: 400px;
+height: 500px;
+border-radius: 10px;
+border: 2px solid black;
+min-width: 300px;
+
+}
+
+h1{
+    color: red;
+}
